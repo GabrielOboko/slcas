@@ -4,7 +4,7 @@
 
 ## Overview
 
-Gabriel's SLCAS (Smart Library Circulation & Automation System) is a desktop library management application built with Java Swing for my COS 202 (Object-Oriented Programming and Data Structures) course at MIVA Open University.
+Gabriel's SLCAS (Smart Library Circulation & Automation System) is a desktop library management application built with Java Swing for my COS 202 (Computer Programming II) course at MIVA Open University.
 
 The aim of the project was to apply object-oriented programming concepts, implement common data structures and algorithms from scratch, and build a functional desktop application without relying on external libraries.
 
