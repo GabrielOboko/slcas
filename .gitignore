@@ -1,0 +1,22 @@
+# Maven build output
+target/
+
+# Plain javac/java build script output
+out/
+sources.txt
+
+# Compiled class files
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# App's own autosave data
+slcas_autosave.json
